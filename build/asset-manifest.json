@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/credit-card-ui/static/css/main.e70d389e.chunk.css",
+    "main.js": "/credit-card-ui/static/js/main.b4631c47.chunk.js",
+    "main.js.map": "/credit-card-ui/static/js/main.b4631c47.chunk.js.map",
+    "runtime~main.js": "/credit-card-ui/static/js/runtime~main.38177972.js",
+    "runtime~main.js.map": "/credit-card-ui/static/js/runtime~main.38177972.js.map",
+    "static/js/2.509d01fc.chunk.js": "/credit-card-ui/static/js/2.509d01fc.chunk.js",
+    "static/js/2.509d01fc.chunk.js.map": "/credit-card-ui/static/js/2.509d01fc.chunk.js.map",
+    "index.html": "/credit-card-ui/index.html",
+    "precache-manifest.37e0b726461efc19d8e78037b308cc1b.js": "/credit-card-ui/precache-manifest.37e0b726461efc19d8e78037b308cc1b.js",
+    "service-worker.js": "/credit-card-ui/service-worker.js",
+    "static/css/main.e70d389e.chunk.css.map": "/credit-card-ui/static/css/main.e70d389e.chunk.css.map",
+    "static/media/chip.png": "/credit-card-ui/static/media/chip.a282b72d.png",
+    "static/media/logo.png": "/credit-card-ui/static/media/logo.f872c3f3.png"
+  }
+}
