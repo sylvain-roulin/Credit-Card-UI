@@ -1,5 +1,5 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
+import FormUI from './components/FormUI';
 import './css/styles.min.css';
 
 class App extends React.Component {
@@ -12,8 +12,8 @@ class App extends React.Component {
 
   render() {
     return(
-      <div>
-        Hello World!
+      <div className="container">
+          <FormUI />
       </div>
     )
   }
